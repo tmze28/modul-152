@@ -4,7 +4,7 @@ Für das Modul-152 soll eine Webseite erstellt werden mit Einbindung unterschied
 
 
 <b>Konzeptvorlage </b>
-Verwende für die Planung deines Projekts diese Konzeptvorlage. Das Konzept ist bis mittags von Tag 1 abzugeben.
+Verwende für die Planung deines Projekts die Konzeptvorlage im src-Ordner. Das Konzept ist bis mittags von Tag 1 abzugeben.
 
 <b> Ziel </b>
 Das Ziel dieser Projektarbeit ist es, bis Mittag von Tag 7 das gesamte Projekt als .zip abzugeben inkl. Medien-Dateien. 
