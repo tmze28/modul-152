@@ -1,19 +1,20 @@
-<b> Einsatz von Bildern </b>
-Wichtig ist es nicht nur die Bilder im richtigen Bildformat bereitzustellen, sondern auch in einer angemessenen Grösse. Bilder sollten immer in der Grösse bereitgestellt werden, in der sie tatsächlich im Web verwendet werden.
+<h1> Einsatz von Bildern </h1>
+<p> Wichtig ist es nicht nur die Bilder im richtigen Bildformat bereitzustellen, sondern auch in einer angemessenen Grösse. Bilder sollten immer in der Grösse bereitgestellt werden, in der sie tatsächlich im Web verwendet werden. </p>
 
-Hier noch ein nützliches Werkzeug um mehrere Fotos miteinander zu verarbeiten: <a href="https://bulkresizephotos.com/de" alt="Bulk Resize Photos">Bulk Resize Photos </a>.
+Hier noch ein nützliches Werkzeug um mehrere Fotos miteinander zu verarbeiten: <a href="https://bulkresizephotos.com/de">Bulk Resize Photos </a>.
 
 <b> Mögliche Plattformen für den Erwerb von Bild-Lizenzen: </b>
 
-<a href="https://stock.adobe.com/ch_de/"> Adobe Stock</a> 
-<a href="https://www.shutterstock.com/de/">Shutterstock
+<a href="https://stock.adobe.com/ch_de/"> Adobe Stock</a> <br>
+<a href="https://www.shutterstock.com/de/">Shutterstock </a> <br>
 
-Daneben gibt es auch noch komplett kostenlose Bildportale. Meistens sind die Aufnahmen von Amateur- und Hobbyfotografen, die aber deshalb nicht schlechter sein müssen:
+<p> Daneben gibt es auch noch komplett kostenlose Bildportale. Meistens sind die Aufnahmen von Amateur- und Hobbyfotografen, die aber deshalb nicht schlechter sein müssen: </p> <br>
 
-<a href="https://unsplash.com/"> Unsplash </a>
-<a href="https://pixabay.com/de/"> Pixabay </a>
-<a href="https://www.pixelio.de/"> Pixelio
-Ladegeschwindigkeit
+<a href="https://unsplash.com/"> Unsplash </a> <br>
+<a href="https://pixabay.com/de/"> Pixabay </a> <br>
+<a href="https://www.pixelio.de/"> Pixelio </a> <br>
+
+<h2> Ladegeschwindigkeit </h2>
 Die zentrale Rolle der Ladegeschwindigkeit für eine Website zeigt folgendes Beispiel:
 
 <b> Absprungrate </b>
@@ -25,8 +26,8 @@ Der Grund für lange Ladezeiten sind häufig schlecht verarbeitete Medien (Bilde
 <b> Geschwindigkeitstests </b> 
 Um die Geschwindigkeit einer Website zu testen gibt es unterschiedliche Tools. Hier zwei davon:
 
-Google-PageSpeed-Test
-WebPagetest
+<a href="https://developers.google.com/speed/pagespeed/insights/?hl=de">Google-PageSpeed-Test</a>
+<a href="https://www.webpagetest.org/">WebPagetest</a>
 
 <h2> Bild-Formate </h2>
 <h3>JPEG  </h3>
@@ -40,10 +41,10 @@ JPEG ist en verlustreiches Bildformat. Die Kompression kann also dazu benutzt we
 
 JPG-Bilder unterstützen keine Transparenz. Sollte ein Teil des Bildes somit transparent sein, eignet sich das JPG-Format nicht.
 
-Anwendungsfall
+<b> Anwendungsfall</b>
 Verwende JPEG für Fotos.
 
-<h3> GIF /h3> 
+<h3> GIF </h3> 
 GIF steht für Graphics Interchange Format.
 
 Das GIF-Format verfügt nur über 256 Farben, dadurch ist die Dateigrösse meistens entsprechend klein. GIF-Kompression
@@ -53,7 +54,7 @@ Das GIF-Format unterstützt Animationen - darum kann es gut eingesetzt werden f�
 Eignet sich für einfache Grafiken mit wenig Farben, jedoch nicht für Fotografien.
 Loop
 
-Anwendungsfall
+<b> Anwendungsfall</b>
 Verwende GIFs für Animationen oder Bilder, die wenige Farben enthalten und als GIF eine kleinere Dateigrösse aufweisen als als PNG.
 
 <h3> PNG </h3>
