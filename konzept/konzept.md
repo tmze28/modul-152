@@ -71,13 +71,13 @@ Mögliche Fragestellungen für die Erstellung einer Persona:
 <b> Sitemap </b><br>
 Die Informationsarchitektur ist eine der zentralen Aufgaben jedes Konzeptes, wenn ein Internetauftritt geplant wird. Die Sitemap ist die Antwort auf die Frage, welche Informationen man wo auf der Site unterbringt.
 
-<img src="sitemap.png" width="250px">
+<img src="src/sitemap.png" width="250px">
 
 <h2> Gestaltungskonzept </h2>
 <b> Wireframes </b><br>
 Wireframe bedeutet so viel wie Drahtgerüst und ist eine schnelle und grobe Wiedergabe eines Designs.
 
-<img src="wireframe.jpeg" width="250px"> 
+<img src="src/wireframe.jpeg" width="250px"> 
 
 Mit einem Wireframe sollten folgende W-Fragen beantwortet werden:
 
