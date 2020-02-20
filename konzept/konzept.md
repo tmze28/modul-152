@@ -68,13 +68,13 @@ Mögliche Fragestellungen für die Erstellung einer Persona:
   </ul>
 
 <h2> Informationsarchitektur </h2>
-<b> Sitemap </b>
+<b> Sitemap </b><br>
 Die Informationsarchitektur ist eine der zentralen Aufgaben jedes Konzeptes, wenn ein Internetauftritt geplant wird. Die Sitemap ist die Antwort auf die Frage, welche Informationen man wo auf der Site unterbringt.
 
 <img src="sitemap.png" width="250px">
 
 <h2> Gestaltungskonzept </h2>
-<b> Wireframes </b>
+<b> Wireframes </b><br>
 Wireframe bedeutet so viel wie Drahtgerüst und ist eine schnelle und grobe Wiedergabe eines Designs.
 
 <img src="wireframe.jpeg" width="250px"> 
@@ -88,16 +88,16 @@ Mit einem Wireframe sollten folgende W-Fragen beantwortet werden:
   <li> Google Maps - Wireframe </li>
 </ul>
 
-<b> Einsatz von Wireframes </b>
+<b> Einsatz von Wireframes </b><br>
 Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet um eine grobe Darstellung der Weblösung zu skizzieren. Sie können auch in einer weniger formellen Weise verwendet werden. Da sie schnell und einfach erstellt werden können, dienen sie als Skizzen für interne Besprechungen mit dem Team. Sie können Wireframes sowohl für grössere als auch für kleinere Aufgaben verwenden. Dies beseitigt Missverständnisse und ist extrem kostengünstig.
 
-<b> Hilfsmittel </b>
-<a href="https://balsamiq.com/">Balsamiq - Programm </a>
+<b> Hilfsmittel </b> <br>
+<a href="https://balsamiq.com/">Balsamiq - Programm </a><br>
 <a href="https://moqups.com/">NinjaMock - Webtool </a>
 
-<b>Planung des Styleguides <b/>
+<b>Planung des Styleguides <b/><br>
 Styleguides sind definierte Rahmenbedingungen und Standards für die gestalterische Umsetzung einer Website (oder anderen Oberfläche). Die Styleguides werden gemeinsam mit dem Auftraggeber definiert und vereinfachen die Kommunikation.
-
+<br>
 Ziel des Styleguides ist es, die Präferenzen, Ziele und Wünsche des Auftraggebers in einem möglichst frühen Projektstadium zu erfassen. Dadurch ist es möglich, zielgerichtetere Designs zu erstellen und darum die Anzahl der benötigten Varianten und Anpassungen zu verkleinern.
 
 Ein Styleguide kann unter anderem Folgendes beinhalten:
