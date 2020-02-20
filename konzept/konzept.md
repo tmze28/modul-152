@@ -71,7 +71,7 @@ Mögliche Fragestellungen für die Erstellung einer Persona:
 <b> Sitemap </b><br>
 Die Informationsarchitektur ist eine der zentralen Aufgaben jedes Konzeptes, wenn ein Internetauftritt geplant wird. Die Sitemap ist die Antwort auf die Frage, welche Informationen man wo auf der Site unterbringt.
 
-<img src="https://github.com/tmze28/modul-152/blob/master/src/sitemap.png?raw=true" 
+<img src="https://github.com/tmze28/modul-152/blob/master/src/sitemap.png?raw=true" >
 
 <h2> Gestaltungskonzept </h2>
 <b> Wireframes </b><br>
