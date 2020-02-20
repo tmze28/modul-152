@@ -48,7 +48,7 @@ Digital Storytelling, im Gegensatz zu klassischem Storytelling, lässt sich dies
   <li> Storytelling mit Text - reine Textseiten</li>
   <li> mit Bildern und Text https://tbz.ch/ bsp. Header, Hintergrundbilder, Bilder im Inhaltsbereich</li>
   <li> Storytelling mit Infografiken </li>
-  <img src="">
+  <img src="https://github.com/tmze28/modul-152/blob/master/src/web-designers-vs-developers.png?raw=true">
   <li> Storytelling mit Animationen bsp. GIF-Animation bsp. https://animagraffs.com/how-a-car-engine-works</li>
   <li>Storytelling mit animierter Interaktion (scroll-activated animation) bsp. https://numero10.ch/de/parallax.html  <br> <br>http://bizbrain.org/coffee/<br>
     Prinzip der scroll-activated animation. Der Nutzer kontrolliert durch scrollen oder wischen mit de Zeigefiger den Fortgang der Animationen. Dabei kann er sich vorwärts und rückwärts bewegen. </li>
