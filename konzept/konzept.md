@@ -92,8 +92,8 @@ Mit einem Wireframe sollten folgende W-Fragen beantwortet werden:
 Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet um eine grobe Darstellung der Weblösung zu skizzieren. Sie können auch in einer weniger formellen Weise verwendet werden. Da sie schnell und einfach erstellt werden können, dienen sie als Skizzen für interne Besprechungen mit dem Team. Sie können Wireframes sowohl für grössere als auch für kleinere Aufgaben verwenden. Dies beseitigt Missverständnisse und ist extrem kostengünstig.
 
 <b> Hilfsmittel </b> <br>
-<a href="https://balsamiq.com/">Balsamiq - Programm </a><br>
-<a href="https://moqups.com/">NinjaMock - Webtool </a>
+<a href="https://balsamiq.com/">Balsamiq  </a><br>
+<a href="https://moqups.com/">Moqups </a>
 
 <b>Planung des Styleguides </b><br>
 Styleguides sind definierte Rahmenbedingungen und Standards für die gestalterische Umsetzung einer Website (oder anderen Oberfläche). Die Styleguides werden gemeinsam mit dem Auftraggeber definiert und vereinfachen die Kommunikation.
