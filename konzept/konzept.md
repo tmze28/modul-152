@@ -28,14 +28,9 @@ Die Festlegung der Stategie sollte somit folgende Fragen beantworten:
 Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu haben. Dieses Ziel sollte mit dem nötigen Budget erreichbar sein. Doch geht es deutlich um mehr - in die Definition von «guten Zielen», sollte daher immer genügen Zeit investiert werden:
 
 <table>
-
-
-
-
-
 <tr> <th> Bereich</th>	<th>Mögliche Ziele / Beispiele</th> </tr>
 <tr><td>Marketing	</td> <td>Mehr Besucher-Verkehr, Bedürfnisse wecken, Leads generieren & reaktivierung bestehender Kunden</td> </tr>
-<tr><td>Beispiel: Sechs Monate nach dem Relaunch der neuen Webseite sollen täglich 350 Besucher Ihre Website besuchen.</td> </tr>
+<tr><td></td><td>Beispiel: Sechs Monate nach dem Relaunch der neuen Webseite sollen täglich 350 Besucher Ihre Website besuchen.</td> </tr>
 
 <tr><td>Verkauf</td> <td>	Mehr Verkäufe, höherer Umwandlungssatz von Interessenten zu Käufern & bessere Verkaufsuntersützung</td> </tr>
 <tr><td></td><td>Beispiel: Innerhalb der nächsten drei Jahre nach dem Launch sollen täglich mindestens 1000 Franken Umsatz über den Webshop generiert werden.</td> </tr>
@@ -54,8 +49,7 @@ Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu habe
 
 <tr><td>Personal</td> <td>	Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende</td> </tr>
 <tr><td></td><td>Beispiel: 25% der Stellenanzeigen im nächsten Jahr werden durch Anfragen über die Website besetzt.</td> </tr>
-    
-    </table>
+</table>
 
 
 <b> Wichtig: </b>Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Definition des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
