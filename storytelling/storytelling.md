@@ -18,13 +18,13 @@ Engagement erreichst du nicht durch lahme Erzählungen. Engagement kommt von Emo
 
 Dabei musst du dein Publikum nicht immer zu Tränen rühren, …
 
-https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/d2lcHJTG5Tscg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/blackish-anthony-anderson-dre-johnson-d2lcHJTG5Tscg">via GIPHY</a></p>
 © giphy.com
 
  
 
 …deine Storys können auch überraschen, begeistern, schockieren…
-https://media.giphy.com/media/5TC1o3oRE68Mg/giphy.gif
+<div style="width:100%;height:0;padding-bottom:149%;position:relative;"><iframe src="https://giphy.com/embed/5TC1o3oRE68Mg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rihanna-hunt-5TC1o3oRE68Mg">via GIPHY</a></p>
 
 © giphy.com
 
@@ -32,7 +32,7 @@ https://media.giphy.com/media/5TC1o3oRE68Mg/giphy.gif
 
 …oder dein Publikum einfach hin und wieder mal zum Lachen bringen 🙂
 
-https://media.giphy.com/media/lOgzjLU2mmN3VoUG4S/giphy.gif
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/lOgzjLU2mmN3VoUG4S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oops-coke-mentos-lOgzjLU2mmN3VoUG4S">via GIPHY</a></p>
 © giphy.com
 
 
