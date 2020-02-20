@@ -27,27 +27,36 @@ Die Festlegung der Stategie sollte somit folgende Fragen beantworten:
   <b> Zieldefinition </b>
 Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu haben. Dieses Ziel sollte mit dem nötigen Budget erreichbar sein. Doch geht es deutlich um mehr - in die Definition von «guten Zielen», sollte daher immer genügen Zeit investiert werden:
 
-<b> Bereich	Mögliche Ziele / Beispiele </b>
-Marketing	Mehr Besucher-Verkehr, Bedürfnisse wecken, Leads generieren & reaktivierung bestehender Kunden
-Beispiel: Sechs Monate nach dem Relaunch der neuen Webseite sollen täglich 350 Besucher Ihre Website besuchen.
+<table>
 
-Verkauf	Mehr Verkäufe, höherer Umwandlungssatz von Interessenten zu Käufern & bessere Verkaufsuntersützung
-Beispiel: Innerhalb der nächsten drei Jahre nach dem Launch sollen täglich mindestens 1000 Franken Umsatz über den Webshop generiert werden.
 
-Support	Verbesserung des Kundensupports & Verringerung der Telefonanfragen
-Beispiel: Innerhalb von drei Monaten nach dem Relaunch sollen täglich zwei Personen weniger die Hotline anrufen.
 
-Webmaster	Vereinfacht die Verwaltung bestehender und die Veröffentlichung neuer Inhalte auf der Website
-Beispiel: Mit der neuen Website gibt es innerhalb des nächsten Jahres halb so viele Support-Anfragen an die Webagentur.
 
-IT	Integration von Drittsystemen, höhere Sicherheit & verbesserte Performance
-Beispiel: Innerhalb der nächsten drei Monate ist die Website zu 99.998% online.
 
-Prozesse	Kostenreduktion mit der Automatisation von Prozessen oder der Standardisierung von Workflows
-Beispiel: Durch die Automatisierung des Prozesses XY können durchschnittlich pro Woche 50 Franken eingespart werden.
+<tr> <th> Bereich</th>	<th>Mögliche Ziele / Beispiele</th> </tr>
+<tr><td>Marketing	</td> <td>Mehr Besucher-Verkehr, Bedürfnisse wecken, Leads generieren & reaktivierung bestehender Kunden</td> </tr>
+<tr><td>Beispiel: Sechs Monate nach dem Relaunch der neuen Webseite sollen täglich 350 Besucher Ihre Website besuchen.</td> </tr>
 
-Personal	Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende
-Beispiel: 25% der Stellenanzeigen im nächsten Jahr werden durch Anfragen über die Website besetzt.
+<tr><td>Verkauf</td> <td>	Mehr Verkäufe, höherer Umwandlungssatz von Interessenten zu Käufern & bessere Verkaufsuntersützung</td> </tr>
+<tr><td></td><td>Beispiel: Innerhalb der nächsten drei Jahre nach dem Launch sollen täglich mindestens 1000 Franken Umsatz über den Webshop generiert werden.</td> </tr>
+
+<tr><td>Support	</td> <td>Verbesserung des Kundensupports & Verringerung der Telefonanfragen</td> </tr>
+<tr><td></td><td>Beispiel: Innerhalb von drei Monaten nach dem Relaunch sollen täglich zwei Personen weniger die Hotline anrufen.</td> </tr>
+
+<tr><td>Webmaster	</td> <td>Vereinfacht die Verwaltung bestehender und die Veröffentlichung neuer Inhalte auf der Website</td> </tr>
+<tr><td></td><td>Beispiel: Mit der neuen Website gibt es innerhalb des nächsten Jahres halb so viele Support-Anfragen an die Webagentur.</td> </tr>
+
+<tr><td>IT	</td> <td>Integration von Drittsystemen, höhere Sicherheit & verbesserte Performance</td> </tr>
+<tr><td></td><td>Beispiel: Innerhalb der nächsten drei Monate ist die Website zu 99.998% online.</td> </tr>
+
+<tr><td>Prozesse</td> <td>	Kostenreduktion mit der Automatisation von Prozessen oder der Standardisierung von Workflows</td> </tr>
+<tr><td></td><td>Beispiel: Durch die Automatisierung des Prozesses XY können durchschnittlich pro Woche 50 Franken eingespart werden.</td> </tr>
+
+<tr><td>Personal</td> <td>	Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende</td> </tr>
+<tr><td></td><td>Beispiel: 25% der Stellenanzeigen im nächsten Jahr werden durch Anfragen über die Website besetzt.</td> </tr>
+    
+    </table>
+
 
 <b> Wichtig: </b>Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Definition des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
 
