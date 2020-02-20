@@ -37,7 +37,7 @@ https://media.giphy.com/media/lOgzjLU2mmN3VoUG4S/giphy.gif
 
 
 <h2> Lean Back Media and Lean Forward Media </h2>
-<img src="">
+<img src="https://github.com/tmze28/modul-152/blob/master/src/leanback.jpg?raw=true">
 
 Daraus lässt sich folgendes erkennen: Je aktiver der Nutzer die Geschichte erleben kann, desto höher steigt auch die Bereitschaft, sich selbst aktiv daran zu beteiligen. Bemerkenswert ist dasbei auch, dass das reine Lesen zwar als Move Forward Verhalten bezeichnet, dennoch aber der Gruppe Lean Back Media zugeordnet wird. 
 <br>
@@ -55,7 +55,6 @@ Digital Storytelling, im Gegensatz zu klassischem Storytelling, lässt sich dies
   <li> Storytelling mit Audio - auf Websites empfiehlt es sich jedoch Audio als Zusatzelement einzusetzen </li>
   <li> Storytelling mit Social Media bsp. facebook.com</li>
   <li> Multimediales Storytelling - Kombination aus mehreren Elementen https://problem.studio/ </li> 
-  
-  </ul>
+    </ul>
   
              
