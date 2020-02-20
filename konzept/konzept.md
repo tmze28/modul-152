@@ -77,7 +77,7 @@ Die Informationsarchitektur ist eine der zentralen Aufgaben jedes Konzeptes, wen
 <b> Wireframes </b><br>
 Wireframe bedeutet so viel wie Drahtgerüst und ist eine schnelle und grobe Wiedergabe eines Designs.
 
-<img src="src/wireframe.jpeg" width="250px"> 
+<img src="https://github.com/tmze28/modul-152/blob/master/src/wireframe.jpg?raw=true"> 
 
 Mit einem Wireframe sollten folgende W-Fragen beantwortet werden:
 
