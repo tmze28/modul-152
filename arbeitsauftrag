@@ -1,0 +1,59 @@
+<h1> Modul 152 </h1> 
+Arbeitsauftrag Für das Modul-152 soll eine Webseite erstellt werden mit Einbindung unterschiedlicher Multimedia-Inhalte.
+
+<h2> Konzeptvorlage  </h2>
+Verwende für die Planung deines Projekts die Konzeptvorlage im src-Ordner. Das Konzept ist bis mittags von Tag 1 abzugeben.
+
+<h2> Ziel  </h2>
+Das Ziel dieser Projektarbeit ist es, bis Mittag von Tag 7 das gesamte Projekt als .zip abzugeben inkl. Medien-Dateien.
+
+<h2> Vorgaben </h2>
+Folgenden Vorgaben gelten für das Projekt und werden mindestens erwartet.
+
+<h2> Konzept</h2>
+<ul> 
+<li> Enthält Wireframes für Mobile & Desktop und Sitemap </li>
+<li> Enthält Styleguide (für Schriften/Farben/Logos/Icons/etc.)</li>
+<li> Enthält klare Zeitplanung</li>
+<li> Form (Titelblatt, Kopf-/Fusszeilen, Orthographie und Grammatik entsprechen Niveau)”</li>
+</ul> 
+
+<h2> Urheberrecht </h2>
+<ul>
+<li> Wird im Impressum aufgeführt </li> 
+<li> Quellenangaben wurden definiert </li>
+<li> Arten von Copyrights werden erklärt</li>
+</ul>
+
+<h2> Dateiformate integrieren </h2> 
+<ul> 
+<li> Integration eines selbsterstellten Videos in mind. vier Formaten</li>
+<li> Integration eines Bildes in mind. drei Formaten</li>
+<li> Integration von Sound in mind. drei Formaten</li>
+</ul>
+
+<h2> Dateiformate vergleichen </h2> 
+<ul>
+<li> Vergleich der Video-Formate (Vor-/Nachteile/Verwendung)</li>
+<li> Vergleich der Bild-Formate (Vor-/Nachteile/Verwendung)</li>
+<li> Vergleich der Sound-Formate (Vor-/Nachteile/Verwendung)</li>
+</ul>
+<h2>Animationen </h2> 
+<ul> 
+<li> Animationen mit animated GIF</li>
+<li> Animationen mit CSS3 sind integriert</li>
+<li> SVG-Animation wurde realisiert und integriert</li>
+<li> HTML5-Canvas wurde verwendet und integriert</li>
+<li> Scroll-Activated animations wurden realisiert und integriert</li>
+</ul>
+<h2>Automatisierung  </h2> 
+(div. Möglichkeiten denkbar)
+
+<h2>Testing  </h2> 
+Das fertige Projekt wird gemäss deiner Planung getestet und die Ergebnisse in eurem Testprotokoll eingetragen.
+
+Testfälle für Mobile & Desktop definiert und adaptiert
+Testfälle für Browserkompatibilität durch Screenshots belegt
+Der Datenbestand, der bis zum Abgabetermin auf dem Server ist, wird für die Bewertung verwendet.
+
+Der genaue Abgabetermin wird vom Kursleiter bestimmt.
