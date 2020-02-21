@@ -18,7 +18,7 @@ Engagement erreichst du nicht durch lahme Erzählungen. Engagement kommt von Emo
 
 Dabei musst du dein Publikum nicht immer zu Tränen rühren, …
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/d2lcHJTG5Tscg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/blackish-anthony-anderson-dre-johnson-d2lcHJTG5Tscg">via GIPHY</a></p>
+<img src="https://giphy.com/embed/d2lcHJTG5Tscg">via GIPHY</p>
 © giphy.com
 
  
