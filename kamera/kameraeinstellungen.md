@@ -1,5 +1,44 @@
 <h1> Kameraeinstellungen </h1>
 
+
+<h2> Wie funktioniert eine Kamera? </h2> <br>
+
+Das Objektiv:
+Der vordere Teil der Kamera besteht aus dem Objektiv. Auf dem Objektiv stehen i.d.R. folgende 2 Angaben: die maximal mögliche Lichtstärke und die Brennweite. Durch die Linse (genauer Linsensystem) fällt das Licht in die Kamera. Im Objektiv befindet sich die Blende mit den Blendenlamellen. Die Blendenlamellen ermöglichen, dass die Blendenöffnung größer und kleiner werden kann und somit die Menge an Licht darüber steuerbar wird. Mehr zu Objektiven im Kapitel Objektive.
+
+<br> 
+<h3> Blende </h3>
+
+Die Blende befindet sich im Objektiv. Am Blendenring kann man die Blendenöffnung in ihrer Größe verändern, d.h. die Menge an einfallendem Licht steuern. Bei modernen Kameras gibt es keinen Blendenring mehr. Die Blendenöffnung wird stattdessen über Motoren eingestellt.
+<br>
+
+Je größer die Blendenöffnung ist, umso mehr Licht fällt ein. Dazu verändern sich die Blendenlamellen. Der Blendenwert hängt daher direkt mit der „Lochgröße“ zusammen.
+<br> 
+Die Blende ist für zwei Aufgaben zuständig: Lichtmenge und Tiefenschärfe regeln.
+<h4> Lichtmenge </h4>
+Eine der zwei Möglichkeiten ist die Steuerung der Lichtmenge, welche auf den Sensor fällt. Das geschieht durch verschieden große Blendenöffnungen im Objektiv. Wird die Öffnung größer gestellt (=niedrige Blendenzahl – zB. f2,8), fällt mehr Licht auf den Sensor und das Bild wird heller. Das gleiche gilt natürlich umgekehrt: Wird die Öffnung kleiner gemacht (=hohe Blendenzahl – zB. f22), wird das Bild dunkler.
+<img src="https://www.besserfotografieren.com/wp-content/uploads/sites/4/2019/05/50mm-objektiv.jpg">
+<em> Ein 50mm Objektiv mit ganz geöffneter Blende. </em>
+
+<h4> Schärfentiefe </h4>
+Die zweite Funktion der Blende ist die Steuerung der Schärfentiefe. Das bedeutet, dass es von der Blendeneinstellung abhängt, ob ein Foto durchgehend scharf ist oder aber nur ein kleiner Teil davon.
+
+Dabei sorgt eine weit geöffnete Blende (=niedrige Blendenzahl) für eine geringe Schärfentiefe und eine geschlossene Blende (=hohe Blendenzahl) für einen grösseren Schärfebereich.
+
+Was genau ist die Schärfentiefe eigentlich? Die Kamera stellt immer auf einen bestimmten Punkt, eine bestimmte Entfernung von der Kamera scharf. Schärfentiefe bedeutet, dass ein bestimmter Bereich von diesem Punkt zur Kamera (ca. 1/3) und von diesem Punkt von der Kamera weg (ca. 2/3) scharf abgebildet wird. <br>
+Je kleiner bzw. je weiter geschlossen die Blende (=größere Blendenzahl), desto grösser dieser Bereich, desto mehr Schärfentiefe. <br>
+
+
+
+
+<h2> Der Verschluss: </h2> <br>
+Im hinteren Teil der Kamera befinden sich ein Spiegel, ein Verschlussvorhang und ein Bildsensor. Der Spiegel projiziert das Bild auf das kleine Sichtfenster hinten. Bei alten Kameras befand sich hinter dem Verschlussvorhang (mechanisch) eine Glasscheibe zur Kontrolle des Bildausschnitts. Beim Auslösen öffnet sich der Verschluss und lässt für die eingestellte Zeit Licht auf die Bildebene fallen. Dann schließt sich der Verschluss wieder. Die Belichtungszeit kann variiert werden, d.h. das Tempo, mit dem sich der Verschluss wieder schließt, und damit die Dauer, während der Licht einfallen kann.
+<br>
+
+ Der Bildsensor (Bildebene)
+Der Bildsensor nimmt das einfallende Licht auf und wandelt dieses in digitale Werte um. <br>
+
+<hr>
 <h2> Parameter </h2>
 
 
@@ -47,20 +86,7 @@ Besonders schlimm sichtbar wird das Bildrauschen bei Fotos mit vielen dunklen Be
 <b>Wo immer möglich, solltest du also eine niedrige ISO Einstellung verwenden, um eine sehr gute Bildqualität ohne Rauschen zu erhalten. Diese ist meist ISO 100. </b>
 <br>
 
-<h3> Blende </h3>
-Die Blende ist Teil des Objektives und ist für zwei Aufgaben zuständig: Lichtmenge und Tiefenschärfe regeln.
-<h4> Lichtmenge </h4>
-Eine der zwei Möglichkeiten ist die Steuerung der Lichtmenge, welche auf den Sensor fällt. Das geschieht durch verschieden große Blendenöffnungen im Objektiv. Wird die Öffnung größer gestellt (=niedrige Blendenzahl – zB. f2,8), fällt mehr Licht auf den Sensor und das Bild wird heller. Das gleiche gilt natürlich umgekehrt: Wird die Öffnung kleiner gemacht (=hohe Blendenzahl – zB. f22), wird das Bild dunkler.
-<img src="https://www.besserfotografieren.com/wp-content/uploads/sites/4/2019/05/50mm-objektiv.jpg">
-<em> Ein 50mm Objektiv mit ganz geöffneter Blende. </em>
 
-<h4> Schärfentiefe </h4>
-Die zweite Funktion der Blende ist die Steuerung der Schärfentiefe. Das bedeutet, dass es von der Blendeneinstellung abhängt, ob ein Foto durchgehend scharf ist oder aber nur ein kleiner Teil davon.
-
-Dabei sorgt eine weit geöffnete Blende (=niedrige Blendenzahl) für eine geringe Schärfentiefe und eine geschlossene Blende (=hohe Blendenzahl) für einen grösseren Schärfebereich.
-
-Was genau ist die Schärfentiefe eigentlich? Die Kamera stellt immer auf einen bestimmten Punkt, eine bestimmte Entfernung von der Kamera scharf. Schärfentiefe bedeutet, dass ein bestimmter Bereich von diesem Punkt zur Kamera (ca. 1/3) und von diesem Punkt von der Kamera weg (ca. 2/3) scharf abgebildet wird. <br>
-Je kleiner bzw. je weiter geschlossen die Blende (=größere Blendenzahl), desto grösser dieser Bereich, desto mehr Schärfentiefe. <br>
 
 <br> <br> 
 <h3> Greenscreens </h3> <br> 
