@@ -71,11 +71,11 @@ Video zu MP4 konvertieren und Web-Optionen in Handbrake <br>
 Durch stetige Weiterentwicklung des Webs können Videos immer problemloser eingebunden und verbreitet werden. Geschah dies früher umständlich über ein Plug-In, wie zum Beispiel Flash, werden Videos heute von den modernen Browsern, wie Chrome, Firefox, Edge, Safari und Opera, nativ unterstützt. 
 <br>
 <b> Codebeispiel:  </b> <br>
-<video width="320" height="240" controls>
+<p> <video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
-</video>
+</video> </p> 
 
 <br>
 <b> Beispiel: </b>
