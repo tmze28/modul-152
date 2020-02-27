@@ -106,11 +106,13 @@ Um bei der Postproduktion keine Probleme zu bekommen, sollte bei den Filmaufnahm
 •	Licht passend zum Filmmaterial, welches später hinzugefügt wird (realistische Lichtverhältnisse)<br>
 •	keine grüne Farbe im Vordergrund einsetzen (bei Bluescreen keine blaue Farbe)<br>
 •	keine reflektierenden Gegenstände im Bild (Brille etc.)<br>
+
 <b> Tipp: je weiter die Person von dem Greenscreen entfernt ist, desto einfacher ist die Beleuchtung und desto weniger wird die grüne Farbe von der Person im Bild reflektiert.
 </b>
 
 <b> Postproduktion: Chroma Keying und Compositing </b>
 Sind die Filmaufnahmen gemacht, wird anschliessend in der Postproduktion zuerst das sogenannte Chroma Keying durchgeführt (englisch: chroma key „Farbstanzen“), eine farbbasierte Bildfreistellung. In einer Filmbearbeitungssoftware werden die grünen Teile des Bildes entfernt und die Person so freigestellt.
+<br> 
 Der letzte Schritt ist das Compositing, wobei mehrere Bildelemente zu einem Gesamtbild zusammengesetzt werden, idealerweise so, dass der Betrachter das Bild nicht als zusammengesetztes Bild wahrnimmt. Hier haben Sie nun die Möglichkeit, als Hintergrund beliebige Bilder – reale Filmaufnahmen oder Animationen – mit der Greenscreen-Aufnahme zu kombinieren.
 <br>
 
