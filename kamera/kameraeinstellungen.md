@@ -86,7 +86,7 @@ Besonders schlimm sichtbar wird das Bildrauschen bei Fotos mit vielen dunklen Be
 <b>Wo immer möglich, solltest du also eine niedrige ISO Einstellung verwenden, um eine sehr gute Bildqualität ohne Rauschen zu erhalten. Diese ist meist ISO 100. </b>
 <br>
 
-
+<hr>
 
 <br> <br> 
 <h3> Greenscreens </h3> <br> 
