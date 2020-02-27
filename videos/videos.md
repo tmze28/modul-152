@@ -66,6 +66,14 @@ Video zu MP4 konvertieren und Web-Optionen in Handbrake <br>
 <a href="https://www.lwks.com/"> Lightworks </a> <br>
 <a href="https://shotcut.org/"> Shotcut</a>
 
+<h3> Video rendern </h3>
+Beim Rendern Ihres Videos wird aus der Komposition ein Frame hergestellt. Das bedeutet, dass aus einer Art Zeitstrahl mit mehreren Ebenen ein zweidimensionales Bild gemacht wird.
+Ihre Komposition ist dieser Zeitstrahl. Praktisch vorstellen können Sie das als Linie, die mehrere Ebenen besitzt: Animierte Texte, Vektorgrafiken und Audio-Streams laufen parallel zueinander. Beim Rendern werden alle diese Ebenen zu einem Frame zusammengeführt und gebündelt. So wird eine Menge Speicherplatz eingespart.
+
+<br> 
+Rendern steht eigentlich nur dafür, dass das Video in ein richtiges, funktionierendes Format umgewandelt und/oder geschnitten werden muss.
+
+
 <h2> Einbindung von Video mit HTML 5 </h2>
 
 Durch stetige Weiterentwicklung des Webs können Videos immer problemloser eingebunden und verbreitet werden. Geschah dies früher umständlich über ein Plug-In, wie zum Beispiel Flash, werden Videos heute von den modernen Browsern, wie Chrome, Firefox, Edge, Safari und Opera, nativ unterstützt. 
