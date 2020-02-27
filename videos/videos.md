@@ -74,4 +74,4 @@ Durch stetige Weiterentwicklung des Webs können Videos immer problemloser einge
 
 <br>
 <b> Beispiel: </b>
-Wie auf der Website ge.com/digitalvolcano ersichtlich, ist in dem Hintergrundvideo eine Bewegung in Form von einer Kamerafahrt erkennbar. 
+Wie auf der Website <a href="ge.com/digitalvolcano"> ge.com/digitalvolcano </a>  ersichtlich, ist in dem Hintergrundvideo eine Bewegung in Form von einer Kamerafahrt erkennbar. 
