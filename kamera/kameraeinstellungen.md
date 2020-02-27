@@ -3,7 +3,7 @@
 
 <h2> Wie funktioniert eine Kamera? </h2> <br>
 
-Das Objektiv:
+<h3> Das Objektiv: </h3> <br>
 Der vordere Teil der Kamera besteht aus dem Objektiv. Auf dem Objektiv stehen i.d.R. folgende 2 Angaben: die maximal mögliche Lichtstärke und die Brennweite. Durch die Linse (genauer Linsensystem) fällt das Licht in die Kamera. Im Objektiv befindet sich die Blende mit den Blendenlamellen. Die Blendenlamellen ermöglichen, dass die Blendenöffnung größer und kleiner werden kann und somit die Menge an Licht darüber steuerbar wird. Mehr zu Objektiven im Kapitel Objektive.
 
 <br> 
