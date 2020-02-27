@@ -59,3 +59,11 @@ Video zu MP4 konvertieren und Web-Optionen in Handbrake <br>
 <li>AVI (Audio Video Interleave) | das wahrscheinlich überflüssigste Containerformat, das wir jetzt endgültig begraben können.
 
 <em> Quelle: https://www.mediaevent.de/tutorial/html-video.html </em>
+
+<h2> Free-Tools zur Videobearbeitung </h2>
+
+<a href="https://www.blender.org/">Blender </a> <br>
+<a href="https://www.lwks.com/"> Lightworks </a> <br>
+<a href="https://shotcut.org/"> Shotcut</a>
+
+
