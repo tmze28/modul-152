@@ -62,9 +62,9 @@ Dabei sorgt eine weit geöffnete Blende (=niedrige Blendenzahl) für eine gering
 Was genau ist die Schärfentiefe eigentlich? Die Kamera stellt immer auf einen bestimmten Punkt, eine bestimmte Entfernung von der Kamera scharf. Schärfentiefe bedeutet, dass ein bestimmter Bereich von diesem Punkt zur Kamera (ca. 1/3) und von diesem Punkt von der Kamera weg (ca. 2/3) scharf abgebildet wird. <br>
 Je kleiner bzw. je weiter geschlossen die Blende (=größere Blendenzahl), desto grösser dieser Bereich, desto mehr Schärfentiefe. <br>
 
-<h2> Video-Parameter </h2>
+<br> <br> 
+<h3> Greenscreens </h3> <br> 
 
-<h3> Greenscreens </h3>
 Der Vormarsch des Greenscreens in den vergangenen Jahren ist allerdings auch dem technischen Fortschritt geschuldet. Bei modernen Videokameras setzt sich jedes Pixel aus einem roten, einem blauen und zwei grünen Pixeln zusammen (siehe Video) - die Farbe Grün trägt also doppelt so viele Bildinformationen, was sie für Videoaufnahmen besonders interessant macht.
 Wer vor einem Greenscreen oder Bluescreen dreht, sollte bei seinen Anziehsachen in jedem Fall darauf achten, eine entsprechende Kontrastfarbe zu wählen; sonst kann es - wie in unserem Clip zu sehen - durchaus passieren, dass man auf einmal ohne Oberkörper dasteht oder das zentrale Element des Videos mal eben verschwindet. Welche Farbe der Hintergrund hat, bleib theoretisch jedem selbst überlassen – die Vorteile von blau und grün sind allerdings nicht von der Hand zu weisen.
 <br>
@@ -95,9 +95,10 @@ Der letzte Schritt ist das Compositing, wobei mehrere Bildelemente zu einem Gesa
 •	Individueller, auf Ihr Unternehmen zugeschnittener Hintergrund möglich <br>
 •	Maximale Freiheit in der Postproduktion, wie z.B. nachträgliche Änderungen an Ihrem Film
 
-<br> 
+<br> <br> <br> 
 <em> Quellen: <br>
 <ul>
  <li> https://www.besserfotografieren.com/kamera-technik/grundlagen/kamera-technik-iso-zahl/</li>
  <li>https://fotoschule.fotocommunity.de/ist-ein-weissabgleich/ </li>
  </ul></em>
+
