@@ -2,13 +2,36 @@
 
 <h2> Parameter </h2>
 
-Die Belichtung eines Fotos wird von Blende, ISO und Belichtungszeit bestimmt. Diese Faktoren sind voneinander abhängig. Wenn du als Ausgangsposition Einstellungen hast, die eine korrekte Belichtung ergeben und du beispielsweise eine kleinere Blendenöffnung wählst, wird das Ergebnis unterbelichtet sein. Um dem entgegenzuwirken kannst du einen der beiden anderen Werte anpassen: ISO oder Belichtungszeit. In der Grafik wählte ich eine längere Belichtungszeit, um wieder eine richtige Belichtung zu bekommen.
+
 
 <br> 
-Weissabgleich
+<h2>Weissabgleich </h2> <br>
 
 
-ISO
+
+Die Belichtung eines Fotos wird von Blende, ISO und Belichtungszeit bestimmt. Diese Faktoren sind voneinander abhängig. Wenn du als Ausgangsposition Einstellungen hast, die eine korrekte Belichtung ergeben und du beispielsweise eine kleinere Blendenöffnung wählst, wird das Ergebnis unterbelichtet sein. Um dem entgegenzuwirken kannst du einen der beiden anderen Werte anpassen: ISO oder Belichtungszeit. 
+
+<h2> Belichtungszeit </h2>  <br>
+Die Belichtungszeit regelt die Menge an Licht, die auf den Sensor fällt durch die Zeit. Zudem ist die Belichtungszeit ein Faktor bei der Bildschärfe.
+<br> 
+Technisch funktioniert die Belichtung mit einem Verschlussvorhang, der den Sensor in geschlossenem Zustand vor durch das Objektiv einfallendem Licht schützt. Beim Drücken des Auslösers wird der Verschlussvorhang geöffnet und wieder geschlossen. Die Zeit dazwischen ist die Belichtungszeit.
+<br>
+Wann kann ich das einsetzen?
+ <ul>
+  <li> Fotos mit hohen Kontrasten </li>
+  <img src="https://www.besserfotografieren.com/wp-content/uploads/sites/4/2019/05/menschen-unterbelichtet.jpg">
+  <li> Sport- und Tierfotografie </li>
+  <li> Aufnahmen bei Nacht</li>
+  </ul>
+
+<h3>ISO </h3> <br>
+Die ISO Einstellung dient zusammen mit Blende und Belichtungszeit dazu, die Lichtmenge und damit die Helligkeit des Fotos zu beeinflussen. Dabei bedeutet ein niedriger ISO Wert eine niedrige Lichtempfindlichkeit des Bildsensors. Ein hoher ISO Wert bedeutet eine entsprechend hohe Lichtempfindlichkeit.
+<br>
+Der Preis für die hohen ISO Werte: Mit höheren Lichtempfindlichkeiten kommen auch unschöne Störungen ins Bild. Bildrauschen ist die sichtbare Grobkörnigkeit, welche je nach Kameramodell bei mittleren ISO Werten sichtbar und bei sehr hohen ISO Werten dann wirklich als störend empfunden wird.
+
+Besonders schlimm sichtbar wird das Bildrauschen bei Fotos mit vielen dunklen Bereichen. Hier kann es dann vorkommen, dass Farbrauschen in Form von einzelnen hellen, farbigen Pixeln sichtbar wird, wo eigentlich einfach nur eine dunkle Fläche sein sollte. </br>
+<b>Wo immer möglich, solltest du also eine niedrige ISO Einstellung verwenden, um eine sehr gute Bildqualität ohne Rauschen zu erhalten. Diese ist meist ISO 100. </b>
+<br>
 
 <h3> Blende </h3>
 Die Blende ist Teil des Objektives und ist für zwei Aufgaben zuständig: Lichtmenge und Tiefenschärfe regeln.
@@ -23,18 +46,19 @@ Die zweite Funktion der Blende ist die Steuerung der Schärfentiefe. Das bedeute
 Dabei sorgt eine weit geöffnete Blende (=niedrige Blendenzahl) für eine geringe Schärfentiefe und eine geschlossene Blende (=hohe Blendenzahl) für einen grösseren Schärfebereich.
 
 Was genau ist die Schärfentiefe eigentlich? Die Kamera stellt immer auf einen bestimmten Punkt, eine bestimmte Entfernung von der Kamera scharf. Schärfentiefe bedeutet, dass ein bestimmter Bereich von diesem Punkt zur Kamera (ca. 1/3) und von diesem Punkt von der Kamera weg (ca. 2/3) scharf abgebildet wird. <br>
-Je kleiner bzw. je weiter geschlossen die Blende (=größere Blendenzahl), desto größer dieser Bereich, desto mehr Schärfentiefe.
+Je kleiner bzw. je weiter geschlossen die Blende (=größere Blendenzahl), desto grösser dieser Bereich, desto mehr Schärfentiefe. <br>
+
 <h2> Video-Parameter </h2>
 
 <h3> Greenscreens </h3>
 Der Vormarsch des Greenscreens in den vergangenen Jahren ist allerdings auch dem technischen Fortschritt geschuldet. Bei modernen Videokameras setzt sich jedes Pixel aus einem roten, einem blauen und zwei grünen Pixeln zusammen (siehe Video) - die Farbe Grün trägt also doppelt so viele Bildinformationen, was sie für Videoaufnahmen besonders interessant macht.
 Wer vor einem Greenscreen oder Bluescreen dreht, sollte bei seinen Anziehsachen in jedem Fall darauf achten, eine entsprechende Kontrastfarbe zu wählen; sonst kann es - wie in unserem Clip zu sehen - durchaus passieren, dass man auf einmal ohne Oberkörper dasteht oder das zentrale Element des Videos mal eben verschwindet. Welche Farbe der Hintergrund hat, bleib theoretisch jedem selbst überlassen – die Vorteile von blau und grün sind allerdings nicht von der Hand zu weisen.
-
+<br>
 
 Für eine Greenscreen-Filmproduktion werden zuerst Filmaufnahmen vor einem grünen Hintergrund gemacht. In der Postproduktion wird dann das sogenannte Chroma Keying und Compositing, sprich das Entfernen der grünen Farbe und das Ersetzen des Hintergrundes, durchgeführt.
 
 
-
+<br>
 Um bei der Postproduktion keine Probleme zu bekommen, sollte bei den Filmaufnahmen Folgendes beachtet werden: <br>
 •	Greenscreen gleichmäßig ausleuchten <br>
 •	Personen gleichmäßig ausleuchten und vom Hintergrund abheben<br>
