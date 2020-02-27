@@ -6,8 +6,21 @@
 
 <br> 
 <h2>Weissabgleich </h2> <br>
+Je nach Weissabgleich wirkt das Foto:
+<ul>
+ <li> warm und einladend </li>
+<li> oder kalt und abstoßend.</li> 
+ </ul>
+Der Grund für diese unterschiedlichen Farbstiche liegt in der Farbtemperatur, einer messbaren Beschreibung für die Lichtstimmung.
 
+<h3> Was bedeutet Farbtemperatur? </h3>
+Der Begriff stammt aus der Physik. Gemessen wird Farbtemperatur in der Maßeinheit Kelvin. Die darin angegebene Temperatur entspricht der Wärme, die ein vollständig schwarzes Objekt haben müsste, um in einer entsprechenden Farbe zu leuchten.
 
+Welche Wärme für welche Farbe benötigt würde, siehst Du unten in der Abbildung. <br>
+
+<img src="https://fotoschule.fotocommunity.de/wp-content/uploads/2015/02/thumb-11.jpg"> 
+
+Die Farbe des ausgestrahlten Lichts ist also von der Temperatur des Körpers abhängig. Dieser Begriff wird übrigens nicht nur in der Fotografie verwendet: Mithilfe der Farbtemperatur lässt sich zum Beispiel auch die Temperatur von flüssigem Stahl in einem Hochofen berührungsfrei aus der Distanz bestimmen.
 
 <h2> Belichtung </h2> 
 Die Belichtung eines Fotos wird von Blende, ISO und Belichtungszeit bestimmt. Diese Faktoren sind voneinander abhängig. Wenn du als Ausgangsposition Einstellungen hast, die eine korrekte Belichtung ergeben und du beispielsweise eine kleinere Blendenöffnung wählst, wird das Ergebnis unterbelichtet sein. Um dem entgegenzuwirken kannst du einen der beiden anderen Werte anpassen: ISO oder Belichtungszeit. 
@@ -82,8 +95,9 @@ Der letzte Schritt ist das Compositing, wobei mehrere Bildelemente zu einem Gesa
 •	Individueller, auf Ihr Unternehmen zugeschnittener Hintergrund möglich <br>
 •	Maximale Freiheit in der Postproduktion, wie z.B. nachträgliche Änderungen an Ihrem Film
 
-
-
-<h2> Foto-Parameter </h2>
-
-
+<br> 
+<em> Quellen: <br>
+<ul>
+ <li> https://www.besserfotografieren.com/kamera-technik/grundlagen/kamera-technik-iso-zahl/</li>
+ <li>https://fotoschule.fotocommunity.de/ist-ein-weissabgleich/ </li>
+ </ul></em>
