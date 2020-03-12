@@ -73,7 +73,6 @@ Jede Animation besteht aus zwei Schritten:
 der Definition der Animation in der @keyframes-Regel
 dem Aufruf der der keyframe-Regel im CSS-Selektor des HTML-Elements
 
-<img src="https://www.mediaevent.de/css/svg/beachbackground.svg">
 
 Weitere Beispiele finden Sie unter:
 https://www.mediaevent.de/css/animation.html
