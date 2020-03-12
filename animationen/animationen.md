@@ -79,4 +79,45 @@ Weitere Beispiele finden Sie unter:
 https://www.mediaevent.de/css/animation.html
 
 <b> Parallax- Effekt </b>
-Die Erzählung einer Geschiche erfolgt hierbei durch aktives Scrollen. 
+Die Erzählung einer Geschiche erfolgt hierbei durch aktives Scrollen. Aus technischer Sicht basiert der Website-Aufbau auf einem One-Pager und besteht lediglich aus einer einzigen Seite. 
+
+Beim Parallax-Effekt bewegen sich beim Scrollen mindestens zwei oder mehr Elemente unterschiedlcih schnell. Es entsteht ein Eindruck von Dreidimensionalität und Tiefe und lässt den Scrollvorgang dadurch dynamisch erscheinen. Dieser Effekt kann sowohl horizontal als auch vertikal aufgebaut sein. 
+
+Beispiel: 
+https://speckyboy.com/10-css-javascript-parallax-scrolling-code-snippets/
+
+
+Oder über background-attachment: https://www.mediaevent.de/css/background-attachment.html
+
+<h2> Das Scalable-Vector-Graphics-Format (SVG) </h2>
+SVG-Dateien sind Textdateien, die auf XML basieren. Dabei beschreibt SVG zweidimensionale Vektorgrafiken. 
+SVG beschreibt eine Vektorgrafik. Diese setzt sich im Gegensatz zu einer Pixelgrafik nicht aus Pixeln, sondenr aus mathematisch definierten Objekten zusammen. Entsprechend dieser Definition besteht Vektor-Objekte beispielsweise aus Strecken , welche durch einen bestimmten Startpunkt, Angaben zur Länge und einem Winkel definiert sind, aus Kreisen, Polygonen, Kurven etc. Darüber hinaus können Vektorgrafiken zusätzliche Eigenschaften wie Farbe oder Transparenzen zugewiesen werden können. 
+
+Eine Pixelgrafik besteht aus einem festen und definierten Pixelraster. Wird diese Grafik skaliert, kommt es zur Qualitätsverlusten. 
+
+Einbindung von SVG-Grafiken im HTML: https://www.mediaevent.de/tutorial/svg.html
+
+<h2> HTML5 Canvas </h2>
+Neben CSS3 und SVG können Animationen auch mit dem HTML5 Element <canvas> erstellt werden. DAs Wort canvas stammt aus dem Englischen wird wie folgt beschrieben: "a pice of canvas used for painting on"
+  
+Das canvas-Element ist tatsächlich zunächst nichts anderes als eine reine Leinwand. Auf diese wird über die Canvas API zugefriffen, zum Beispiel mittels JavaScript. Mit dieser Skript-Sprache können dann beispielswiese Grafiken erzeugt, animiert, Videos angezeigt und Audio abgespielt werden. 
+
+Weitere Informationen und Beispiele finden Sie unter: https://www.mediaevent.de/html/canvas.html
+https://www.w3schools.com/html/html5_canvas.asp
+
+<h2> Scroll activated animations </h2>
+Als scroll-activated animations werden Animationen bezeichnet, die erst dann ablaufen, wenn der Nutzer zu diesen gescrollt hat. Dies bedeutet, dass die Animation nicht automatisch mit dem LAden der Seit ebeginnt, sondern erst startet, wenn sich diese im Sichtbereich des Nutzers befinden. Dadurch können Elemente zum Beispiel nach und nach nit verschiedenen Effekten erscheinen. Für diese Funktionalität wird ein JavaScript benötigt, mit welchem die aktuelle Scroll-Höhe ermittelt werden kann. 
+
+How to #scrollactivatedanimation : https://www.kirupa.com/animations/creating_scroll_activated_animations.htm
+
+<b> Tools für Digital Storytelling Websites </b> 
+
+https://www.pageflow.io/
+
+https://shorthand.com/
+
+
+
+https://storyform.co/
+
+Quellen: Buch: Digital Storytelling im Web, Mediaevent, W3Schools
